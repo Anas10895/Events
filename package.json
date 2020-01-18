@@ -1,0 +1,20 @@
+{
+  "name": "Events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anas10895/Events.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anas10895/Events/issues"
+  },
+  "homepage": "https://github.com/Anas10895/Events#readme"
+}
